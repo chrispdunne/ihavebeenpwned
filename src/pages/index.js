@@ -17,8 +17,8 @@ const IndexPage = () => {
           e.preventDefault()
           setBodyText(
             <>
-              <p>Thanks for that! You've successfully been pwned.</p>
-              <p>Not really but careful who you trust online!</p>
+              <h2>Thanks for that! You've successfully been pwned.</h2>
+              <p>Not really, but careful who you trust online.</p>
             </>
           )
         }}
